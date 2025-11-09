@@ -89,7 +89,9 @@ void client(int wfd, int rfd) {
 
 
 ## OUTPUT
+```
 ![alt text](<../../Screenshot at 2025-11-09 09-40-45.png>)
+```
 
 ## C Program that illustrate communication between two process using named pipes using Linux API system calls
 ```
